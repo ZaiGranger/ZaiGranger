@@ -128,17 +128,65 @@ Etapa profesional anterior dentro de MercadoIT, vinculada al área de logística
 
 ---
 
+
 ## 🚀 Proyectos destacados
+
+### 🏢 Creador de Artículos Odoo
+
+**Herramienta de digitalización empresarial | MercadoIT**
+
+[![Repositorio](https://img.shields.io/badge/Ver_repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZaiGranger/creador-articulos-odoo)
+![Estado](https://img.shields.io/badge/Estado-En_desarrollo-0969DA?style=for-the-badge)
+
+Herramienta web para preparar productos destinados a Odoo, validar información y detectar coincidencias antes de realizar futuras altas en el ERP.
+
+**Tecnologías utilizadas**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+
+**Funcionalidades desarrolladas:**
+
+- 📊 Importación de productos desde Excel.
+- 📝 Registro manual de candidatos mediante panel web.
+- 🔎 Búsqueda de coincidencias en Odoo y scraper.
+- 🗄️ Persistencia y trazabilidad en MySQL/MariaDB.
+- ✅ Validación de campos obligatorios.
+- 🔗 API para gestionar candidatos y consultar datos.
+- 🛡️ Consultas externas en modo solo lectura.
+- ⚙️ Funcionamiento parcial aunque la base local no esté disponible.
+
+**Arquitectura**
+
+- Backend y API desarrollados con Python y FastAPI.
+- Panel web para gestionar candidatos.
+- Base de datos dedicada para persistencia.
+- Servicios separados de validación, importación y consulta.
+- Integración de lectura con Odoo y scraper.
+
+> **Estado actual:** preparación y revisión previa de
+> productos. La creación automática en Odoo está
+> prevista para una fase posterior.
+
+**[🔗 Explorar proyecto en GitHub](https://github.com/ZaiGranger/creador-articulos-odoo)**
+
+---
 
 ### 📚 OpoStudy
 
-**Proyecto de desarrollo de software | En desarrollo**
+**Proyecto académico | Desarrollo de Aplicaciones Multiplataforma**
 
-Proyecto realizado durante mi formación en Desarrollo de Aplicaciones Multiplataforma.
+Aplicación en desarrollo como parte de mi formación
+en DAM.
 
-Este espacio se actualizará con su evolución, funcionalidades y documentación técnica.
+Proyecto orientado a poner en práctica conocimientos
+de programación y desarrollo de software.
 
----
+**Estado:** En desarrollo.
+
 
 ## 🧠 Competencias profesionales
 
